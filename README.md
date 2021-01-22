@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Sometimes I have ideias in the middle of the night, then I start building something to be finished in the next few days. This README is an example!
+
 <!--
 **deepstrings/deepstrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
