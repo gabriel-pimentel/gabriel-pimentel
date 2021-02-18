@@ -1,18 +1,18 @@
-### Hi there 👋
+## Olá, mundo 👋
 
-# Sometimes I have ideias in the middle of the night, then I start building something to be finished in the next few days. This README is an example!
+- 🤓 Meu nome é Gabriel Pimentel, 23 anos, ipojucano com orgulho
+- 🔭 Atualmente trabalho na prefeitura de Ipojuca como Suporte de TI
+- 📚 Sou estudante de Ciência da Computação pela Universidade Federal Rural de Pernambuco
+- 🧐 Curioso desde pequeno, depois que botaram um computador na minha frente, aí que a coisa ficou séria...
 
-<!--
-**deepstrings/deepstrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Toolbox
 
-Here are some ideas to get you started:
+Essas são as tecnologias que tenho utilizado ao longo da minha jornada como desenvolvedor e aprendiz:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C
+- UML
+- Git
+- Python
+- HTML
+- Javascript
