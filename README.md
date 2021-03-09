@@ -1,6 +1,6 @@
 ## 👋 Olá, mundo
 
-- 🤓 Meu nome é Gabriel Pimentel, 23 anos, ipojucano com orgulho
+- 🤓 Meu nome é Gabriel Pimentel, 23 anos
 - 🔭 Atualmente trabalho na prefeitura de Ipojuca como Suporte de TI
 - 📚 Sou estudante de Ciência da Computação pela Universidade Federal Rural de Pernambuco
 - 🧐 Curioso desde pequeno, depois que botaram um computador na minha frente, aí que a coisa ficou séria...
