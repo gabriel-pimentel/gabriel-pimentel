@@ -1,28 +1,26 @@
-## 👋 Olá, mundo
+## 👋 Hello, World!
 
-- 🤓 Meu nome é Gabriel Pimentel, 23 anos
-- 🔭 Atualmente trabalho na prefeitura de Ipojuca como Suporte de TI
-- 📚 Sou estudante de Ciência da Computação pela Universidade Federal Rural de Pernambuco
+- 🤓 My name is Gabriel Pimentel
+- 🔭 I work at Ipojuca City Hall as an IT Support
+- 📚 I'm a computer scientist student from Universidade Federal Rural de Pernambuco
 
 ## 🧰 Toolbox
-Essas são as tecnologias que tenho utilizado ao longo da minha jornada como desenvolvedor 
-:
+These are some tools I've been working with:
 
 - Java
 - C
 - UML
 - Git
 - Python
-- HTML
+- HTML/CSS
 - Javascript
 
+## 📚 Study and Development
+Nowadays, I'm diving deep into:
 
-## 📚 Estudo
-
-Tenho focado meus estudos nos seguintes:
-
-- Princípios SOLID
+- SOLID principles
 - Typescript
 - Angular
 - Design Patterns
 - SQL
+- Software Architecture
