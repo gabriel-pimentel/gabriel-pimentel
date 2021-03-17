@@ -1,7 +1,7 @@
 ## 👋 Hello, World!
 
 - 🤓 My name is Gabriel Pimentel
-- 🔭 I work at Ipojuca City Hall as an IT Support
+- 🔭 I'm currently working at Ipojuca City Hall as an IT Support
 - 📚 I'm a computer scientist student from Universidade Federal Rural de Pernambuco
 
 ## 🧰 Toolbox
