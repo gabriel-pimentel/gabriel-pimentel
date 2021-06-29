@@ -28,10 +28,10 @@ These are some tools I've been working with:
 ### Mathematics
 - Linear Algebra
 - Calculus
+- Statistics
 
 ### Languages
 - English
-- German
 
 ## 🎸 Hobbies 
 - I play guitar since I was 12
