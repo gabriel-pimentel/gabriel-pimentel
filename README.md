@@ -5,6 +5,11 @@
 - 📚 I'm a computer scientist student from Universidade Federal de Pernambuco
 - 🧐 I'm really interested in software engineering, computer vision, machine learning and IoT
 
+<div>
+  <a href="https://github.com/gabriel-pimentel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-pimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-pimentel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 🧰 Toolbox
 These are some tools I've been working with:
