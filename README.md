@@ -3,7 +3,7 @@
 - 🤓 My name is Gabriel Pimentel
 - 🔭 I'm currently working at Ipojuca City Hall as an IT Support
 - 📚 I'm a computer scientist student from Universidade Federal de Pernambuco
-- 🧐 I'm really interested in software engineering, computer vision, machine learning, data analysis and augmented reality
+- 🧐 I'm really interested in data analysis, machine learning, deep learning, computer vision and software engineering 
 
 <div>
   <a href="https://github.com/gabriel-pimentel">
