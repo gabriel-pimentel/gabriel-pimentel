@@ -23,25 +23,3 @@
   
 </div>
   
- 
-## 📚 Study and Development
-
-### Programming stuff
-- SOLID principles
-- Design Patterns
-- SQL
-- Software Architecture
-
-### Mathematics
-- Linear Algebra
-- Calculus
-- Statistics
-
-### Languages
-- English
-
-## 🎸 Hobbies 
-- I play guitar since I was 12
-- I'm in love with tracking
-- I started practicing Brazilian Jiu Jitsu
-- Average enjoyer of Prog Rock, Bossa Nova, Post-Rock Instrumental, Brega and John Frusciante's existence 
