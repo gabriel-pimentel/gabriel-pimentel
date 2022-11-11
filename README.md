@@ -1,9 +1,8 @@
 ## 👋 Hello, World!
 
-- 🤓 My name is Gabriel Pimentel
 - 🔭 Currently working at Ipojuca City Hall as an IT Support
 - 📚 Computer scientist student from Universidade Federal de Pernambuco
-- 🧐 Interest in data analysis, machine learning, deep learning, computer vision, cloud and software engineering 
+- 🔍 Interest in data analysis, machine learning, deep learning, computer vision, cloud and software engineering 
 
 <div>
   <a href="https://github.com/gabriel-pimentel">
