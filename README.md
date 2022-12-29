@@ -1,7 +1,8 @@
 ## 👋 Hello, World!
 
-- 📚 Computer scientist student from Universidade Federal de Pernambuco
-- 🔍 Interest in data engineering, data analysis, machine learning, deep learning, computer vision, cloud computing and software engineering 
+- 📚 I'm a computer scientist student from Universidade Federal de Pernambuco
+- 🔍 Interest in data engineering, data analysis, machine learning, deep learning, computer vision, cloud computing and software engineering
+- ☁️  AWS Cloud Practitioner Certified 
 
 <div>
   <a href="https://github.com/gabriel-pimentel">
@@ -19,5 +20,4 @@
   <img align="center" alt="Gabriel-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="746b7907-8aa1-49dc-9737-e8d6972a6f0e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  
+
