@@ -1,7 +1,7 @@
 ## 👋 Hello, World!
 
 - 📚 I'm a computer scientist student from Universidade Federal de Pernambuco
-- 🔍 Interest in data engineering, data analysis, machine learning, deep learning, computer vision, cloud computing and software engineering
+- 🔍 Interest in data engineering, data analysis, networking, cloud computing and software engineering
 - ☁️  AWS Cloud Practitioner Certified 
 
 <div>
